@@ -11,6 +11,13 @@
     <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pages</title>
+      <link>/clear/pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/clear/pages/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Diagram Support</title>
       <link>/posts/diagram-support/</link>
       <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
